@@ -1,10 +1,6 @@
 # DIY-branch-protection-and-ci
 
-I denne oppgaven skal du sette opp et repository fra scratch etter beste praksis 
-
-# Hensikt med oppgaven
-
-* Hensikten er at du skal kunne sette opp et GitHub repository, fra bunnen av, med kontinuerlig integrasjon, og en beskyttet branch.
+ Hensikten med denne oppgaven er at du skal kunne sette opp et GitHub repository, fra bunnen av, med kontinuerlig integrasjon, og en beskyttet branch.
 
 # Oppgave 
 
