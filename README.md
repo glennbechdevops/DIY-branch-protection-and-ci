@@ -10,6 +10,7 @@ Lag et nytt GitHub repository, bruk Spring Initializer https://start.spring.io/ 
 * Lag en GitHub Actions Workflow. Konfigurer GitHub actions til å bygge Spring Boot applikasjonen, og stoppe for eksmepel ved en unit-test feil. 
 * Konfigurerer repository med en beskyttet branch, slik at ingen kan pushe direkte på ```main```
 * Konfigurer "Status Checks" på ditt repository slik at man ikke kan gjøre en merge pull request til ```main```dersom Maven bygget feiler.
+* Angående Status checks, ikke det mest intuitive i GitHub actions. Di må "søke" frem en status Check, her kan du søke etter det du valgte some "name" i workflow filen din. 
 
 # Relevant informasjon 
 
